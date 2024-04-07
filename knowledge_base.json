@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "questions": "halo",
+      "answers": "Halo! Apa yang bisa saya bantu?"
+    },
+    {
+      "questions": "selamat datang",
+      "answers": "Selamat datang! Ada yang bisa saya bantu?"
+    },
+    {
+      "questions": "apa kabar",
+      "answers": " Kabar Saya Baik. Bagaimana dengan Anda?"
+    },
+    {
+      "questions": "exit",
+      "answers": "Terima kasih telah menggunakan Chat Bot. Sampai jumpa:)!"
+    }
+  ]
+}
